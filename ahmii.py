@@ -1,4 +1,4 @@
-‎#URL_Shortener script coded by Ahmii 
+‎# URL_Shortener script coded by Ahmii 
 ‎import requests
 ‎import time
 ‎from colorama import Fore, Style, init
